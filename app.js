@@ -1,5 +1,5 @@
 window.addEventListener("load", function () {
-  const randomQuoteApi = "http://api.quotable.io/random";
+  const randomQuoteApi = "https://api.quotable.io/random";
   const displayQuote = document.querySelector("#displayQuote");
   const typeQuote = document.querySelector("#typeQuote");
   const counter = document.querySelector('#counter');
